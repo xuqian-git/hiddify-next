@@ -58,3 +58,6 @@ app.*.map.json
 
 
 /data
+Podfile.lock
+pubspec.lock
+XCBuildData
